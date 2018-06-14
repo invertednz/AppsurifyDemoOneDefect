@@ -3,6 +3,10 @@
  */
 public class FileOne {
     public FileOne(){
+
+    }
+
+    public FileOne(String test){
         
     }
 }
